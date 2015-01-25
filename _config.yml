@@ -12,15 +12,15 @@ relative_permalinks: true
 title:               Wander Far
 tagline:             'Not all those who wander are lost'
 description:         'A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:                 http://lanyon.getpoole.com
+url:                 http://wanderfar.github.io
 baseurl:             /
 paginate:            5
 
 # About/contact
 author:
   name:              Test
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  url:               http://wanderfar.co.uk
+  email:             andrew.chong@tesco.net
 
 # Custom vars
 version:             1.0.0
