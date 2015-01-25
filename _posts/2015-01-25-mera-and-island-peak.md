@@ -9,12 +9,12 @@ Nobody said it was easy. So somehow you persevere, endure the aches and pains, a
 
 But that’s enough of the melancholic musings for now. 
 
-Awesome. A word that not only describes this expedition and the breathtaking Himalayan scenery, but also our team of initial strangers, sherpas and porters. The most awesome of all is our Jagged Globe guide, Tore Rasmussen, seven summiteer, who put us mostly much younger folk to shame. He effectively broke the (social) ice, gave wise instruction on jumar use, pole technique and the warding off of the dreaded high altitude hack (aka Khumbu cough), told tall stories, and kept us together and motivated when we were down.
+Awesome. A word that not only describes this expedition and the breathtaking Himalayan scenery, but also our team of initial strangers, sherpas and porters. The most awesome of all is our [Jagged Globe](http://www.jagged-globe.co.uk) guide, Tore Rasmussen, seven summiteer, who put us mostly much younger folk to shame. He effectively broke the (social) ice, gave wise instruction on jumar use, pole technique and the warding off of the dreaded high altitude hack (aka Khumbu cough), told tall stories, and kept us together and motivated when we were down.
 
 It began with shy awkward introductions at Heathrow and Kathmandu airports amidst a mountain of blood-red Jagged Globe kit bags.  However, the real start of the expedition was the back-of-the-neck-hair-raising landing at Lukla’s almost-too-short runway. The next week or so was a (relatively) leisurely acclimatisation trek to Mera high camp through lush farmland, verdant cloud forest, desert tundra and glacial valleys of broken rock, snow and ice (accompanied by the strains of “I am a Disco Dancer” on one Nepali’s music player). In quick succession came the slog of summiting Mera Peak, the incredible climb up and down through the out-of-this-world Amphu Labsa pass, and the jumar-assisted ascent of Island Peak. Then all too soon was the fast descent to the kinder climes of Namche Bazaar and Lukla, concluding with a return to the more than welcome comforts of the Summit Hotel and Thamel.
 
 Some random memory snapshots of the trip:
-  > •	The solitary hot bucket shower in Kote or was it Khare.
+•	The solitary hot bucket shower in Kote or was it Khare.
 •	The cosy warmth of the hot stove in tea house dining rooms.
 •	Spending 11 freezing days at 5000+ metres altitude in succession in tents (with no teahouses to warm up in).
 •	The frozen beauty of the Hingku valley.
@@ -26,5 +26,3 @@ Some random memory snapshots of the trip:
 The highlight of the trip for me was the astounding Amphu Labsa pass, with its dramatic wedding-cake-layered ice walls with their impressive edge icing of frosted icicles. More by accident than design, we set off relatively late in the morning and got to see this spectacular sight in good light (rather than following the usual practice of starting off before dawn). I can’t praise enough the superhuman feats of the Sherpas (Sirdar Dawa, Gyan, Pemba and Ramesh) and porters in getting us all unharmed down the precipitous other side of the Amphu Labsa pass, and for their prodigious efforts throughout.
 
 But inevitably, at the end of an expedition, minds turn back to the rote concerns and worries of “normal” life, and you can’t help but feel a little sad. Our little team was breaking up, those whose paths had come together on one great journey would soon be going their separate ways scattered to distant lands (aka Yorkshire), and it is in the hands of fickle fate (or at least facebook) whether our paths will ever cross again. You find friends and they wander from your life, yet you hope that not all who wander are lost.
-
-Generated with [Jekyll](http://jekyllrb.com)
