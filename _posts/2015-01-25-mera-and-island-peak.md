@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Mera & Island Peak (Oct/Nov 2014)
 ---
 
