@@ -15,7 +15,7 @@ A word that not only describes this expedition and the breathtaking Himalayan sc
 
 It began with shy awkward introductions at Heathrow and Kathmandu airports amidst a mountain of blood-red Jagged Globe kit bags.  However, the real start of the expedition was the back-of-the-neck-hair-raising landing at Lukla’s almost-too-short runway. The next week or so was a (relatively) leisurely acclimatisation trek to Mera high camp through lush farmland, verdant cloud forest, desert tundra and glacial valleys of broken rock, snow and ice (accompanied by the strains of [_“I am a Disco Dancer”_](http://youtu.be/SBOVN9KPg7c) on one Nepali’s music player). In quick succession came the slog of summiting Mera Peak, the incredible climb up and down through the out-of-this-world Amphu Labsa pass, and the jumar-assisted ascent of Island Peak. Then all too soon was the fast descent to the kinder climes of Namche Bazaar and Lukla, concluding with a return to the more than welcome comforts of the Summit Hotel and Thamel.
 
-Some random memory snapshots of the trip:
+Some random memory snapshots of the trip:  
 * Island peak summit day and the unforgettable stop-and stare spectacle of dawn's first light on Ama Dablam.
 
 * The solitary hot bucket shower in Kote or was it Khare.
