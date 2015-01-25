@@ -19,11 +19,11 @@ It began with shy awkward introductions at Heathrow and Kathmandu airports amids
 
 Some random memory snapshots of the trip:  
 
-* Island peak summit day and the unforgettable stop-and stare spectacle of dawn's first light on Ama Dablam.
+* Island peak summit day and the unforgettable stop-and stare spectacle of dawn's first light on the fairytale snowcapped mountain that is Ama Dablam.
 
 * The solitary hot bucket shower in Kote or was it Khare.
 
-* The cosy warmth of the hot stove in tea house dining rooms.
+* The cosy warmth of the hot stove in tea house dining rooms at the start and end of the trip.
 
 * Spending 11 freezing days at 5000+ metres altitude in succession in tents (with no teahouses to warm up in).
 
@@ -38,7 +38,7 @@ Some random memory snapshots of the trip:
 * Fried spam (surprisingly not the cause of the aforesaid vomiting).
 
 ###Amphu Labsa
-The highlight of the trip for me was the astounding Amphu Labsa pass, with its dramatic wedding-cake-layered ice walls with their impressive edge icing of frosted icicles. More by accident than design, we set off relatively late in the morning and got to see this spectacular sight in good light (rather than following the usual practice of starting off before dawn). I can’t praise enough the superhuman feats of the Sherpas (Sirdar Dawa, Gyan, Pemba and Ramesh) and porters in getting us all unharmed down the precipitous other side of the Amphu Labsa pass, and for their prodigious efforts throughout.
+The highlight of the trip for me was the astounding Amphu Labsa pass, and its dramatic wedding-cake-layered ice walls with their impressive edge icing of frosted icicles. More by accident than design, we set off relatively late in the morning and got to see this spectacular sight in good light (rather than following the usual practice of starting off before dawn). I can’t praise enough the superhuman feats of the Sherpas (Sirdar Dawa, Gyan, Pemba and Ramesh) and porters in getting us all unharmed down the precipitous cliff on the other side of the Amphu Labsa pass, and for their prodigious efforts throughout.
 
 ![Amphu Labsa](http://wanderfar.co.uk/MeraIsland/Nepal-230.jpg "Amphu Labsa")
 
