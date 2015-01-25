@@ -11,14 +11,14 @@ relative_permalinks: true
 # Setup
 title:               Wander Far
 tagline:             'Not all those who wander are lost'
-description:         'A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:                 http://wanderfar.github.io
+description:         'A blog to accompany the photos at <a href="http://wanderfar.co.uk" target="_blank">Wander Far</a>.'
+url:                 http://wanderfar.co.uk
 baseurl:             /
 paginate:            5
 
 # About/contact
 author:
-  name:              Test
+  name:              Andrew Chong
   url:               http://wanderfar.co.uk
   email:             andrew.chong@tesco.net
 
