@@ -1,10 +1,12 @@
 ---
-layout: page
-title: Mera & Island Peak (Oct/Nov 2014)
+layout: post
+title: Mera & Island Peak
 ---
-
+###Trip Report
 It’s 5800 metres on the altimeter. You think to yourself _“What on earth am I doing here?”_ It’s bone-chillingly cold, you are exhausted and weak as a kitten, the water tastes of kerosene and the very thought of food is nauseating, you feel dispirited and downhearted, everything is clammily damp, every little physical niggle is magnified, and you have not had a shower in weeks.  All you want to do is huddle foetus-like in your sleeping bag feeling very sorry for yourself. As the [Coldplay](http://youtu.be/RB-RcX5DS5A) song goes: 
->_**“Nobody said it was easy. No one ever said it would be this hard. Oh, take me back to the start”.**_
+>_**Nobody said it was easy.  
+No one ever said it would be this hard.  
+Oh, take me back to the start.**_
 
 _Nobody said it was easy_. So somehow you persevere, endure the aches and pains, and find the strength to stumble your way through to the next day, and the next, and the next. And gradually over the coming weeks and months, those immediate memories of suffering, being frozen to the bone, and swearing never to do anything like this ever again slowly fade away, and all that remains are the stunning views from the summits and warm nostalgic fuzzy feelings. And now? I find myself reminiscing fondly about the easy camaraderie of our team, bonded through a common experience of hardship, laughter and support, and yearning to recapture that ephemeral spirit amongst those serene mountains.
 
@@ -41,3 +43,5 @@ The highlight of the trip for me was the astounding Amphu Labsa pass, with its d
 
 ###Postscript
 Inevitably, at the end of an expedition, minds turn back to the rote concerns and worries of “normal” life, and you can’t help but feel a little sad. Our little team was breaking up, those whose paths had come together on one great journey would soon be going their separate ways scattered to distant lands (aka Yorkshire), and it is in the hands of fickle fate (or at least facebook) whether our paths will ever cross again. You find friends and they wander from your life, yet you hope that not all who wander are lost.
+
+>>This trip took place in October and November 2014.
