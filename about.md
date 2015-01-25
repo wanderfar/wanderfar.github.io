@@ -3,7 +3,9 @@ layout: page
 title: About
 ---
 
-Hey there! This site is inspired by the second line of one of J.R.R. Tolkein's poems _"All That is Gold Does Not Glitter"_ included in The Lord of the Rings, which reads:
+Hey there! 
+
+This site is inspired by the second line of one of J.R.R. Tolkein's poems _"All That is Gold Does Not Glitter"_ included in The Lord of the Rings, which reads:
 
 >All that is gold does not glitter,  
 **Not all those who wander are lost;**  
