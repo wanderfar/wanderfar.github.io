@@ -17,13 +17,21 @@ It began with shy awkward introductions at Heathrow and Kathmandu airports amids
 
 Some random memory snapshots of the trip:
 * Island peak summit day and the unforgettable stop-and stare spectacle of dawn's first light on Ama Dablam.
+
 * The solitary hot bucket shower in Kote or was it Khare.
+
 * The cosy warmth of the hot stove in tea house dining rooms.
+
 * Spending 11 freezing days at 5000+ metres altitude in succession in tents (with no teahouses to warm up in).
+
 * The frozen beauty of the Hingku valley.
+
 * The price of Pringles/Mars/Twix/Snickers/Fanta increasing and decreasing with altitude.
+
 * The riotous end-of-expedition party with the porters and sherpas at Tara Lodge in Lukla.
+
 * Holding a bin for my roommate to be sick in.
+
 * Fried spam (surprisingly not the cause of the aforesaid vomiting).
 
 ###Amphu Labsa
