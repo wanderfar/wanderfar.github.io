@@ -45,4 +45,4 @@ The highlight of the trip for me was the astounding Amphu Labsa pass, with its d
 ###Postscript
 Inevitably, at the end of an expedition, minds turn back to the rote concerns and worries of “normal” life, and you can’t help but feel a little sad. Our little team was breaking up, those whose paths had come together on one great journey would soon be going their separate ways scattered to distant lands (aka Yorkshire), and it is in the hands of fickle fate (or at least facebook) whether our paths will ever cross again. You find friends and they wander from your life, yet you hope that not all who wander are lost.
 
->>This trip took place in October and November 2014.
+>>_This trip took place in October and November 2014._
