@@ -4,27 +4,26 @@ title: About
 ---
 
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+  Hey there! This site is inspired by a quote from one of J.R.R. Tolkein's poems: 
+  >Not all those who wander are lost
 </p>
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+*"All That is Gold Does Not Glitter"* is a poem included in The Lord of the Rings, and reads:
 
-There are currently two themes built on Poole:
+>All that is gold does not glitter,
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+Not all those who wander are lost;
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+The old that is strong does not wither,
 
-## Setup
+Deep roots are not reached by the frost.
 
-Some fun facts about the setup of this project include:
+From the ashes a fire shall be woken,
 
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
+A light from the shadows shall spring;
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
+Renewed shall be blade that was broken,
+
+The crownless again shall be king.
 
 Thanks for reading!
