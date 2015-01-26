@@ -67,5 +67,5 @@ _Astonishing Amphu Labsa_
 ![Amphu Labsa](http://wanderfar.co.uk/MeraIsland/Nepal-229.jpg "Amphu Labsa")
 ![Amphu Labsa](http://wanderfar.co.uk/MeraIsland/Nepal-230.jpg "Amphu Labsa")
 
-###Postscript
+###All good things ...
 Inevitably, at the end of an expedition, minds turn back to the rote concerns and worries of “normal” life, and you can’t help but feel a little sad and regret. Our little team was breaking up, those whose paths had come together on one great journey would soon be going their separate ways scattered to distant lands, and it is in the hands of fickle fate (or at least facebook) whether our paths will ever cross again. You find friends and they wander from your life, yet you hope that not all who wander are lost.
