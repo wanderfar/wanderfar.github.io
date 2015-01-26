@@ -5,6 +5,7 @@ comments: true
 ---
 >>_This trip took place in October and November 2014._
 
+###Trip Report
 The altitude is 5800m. You think to yourself _“What on earth am I doing here?”_ It’s bone-chillingly cold, you are exhausted and weak as a kitten, the water tastes of kerosene and the very thought of food is nauseating, you feel dispirited and downhearted, everything is clammily damp, every little physical niggle is magnified, and you have not had a shower in weeks.  All you want to do is huddle foetus-like in your sleeping bag feeling very sorry for yourself. As the [Coldplay](http://youtu.be/RB-RcX5DS5A) song goes: 
 >_**Nobody said it was easy.  
 No one ever said it would be this hard.  
@@ -18,7 +19,7 @@ _View from Mera Peak_
 ![View from Mera Peak](http://wanderfar.co.uk/MeraIsland/Panorama-7.jpg "View from Mera Peak")
 
 ###Awesome. 
-A word that not only describes this expedition and the breathtaking Himalayan scenery, but also our team of initial strangers, sherpas and porters. The most awesome of all is our [Jagged Globe](http://www.jagged-globe.co.uk) guide, Tore Rasmussen, seven summiteer, who put us mostly much younger folk to shame. He effectively broke the (social) ice, gave wise instruction on jumar use, pole technique and the warding off of the dreaded high altitude hack (aka Khumbu cough), told tall stories, and kept us together and motivated when we were down.
+A word that not only describes this expedition and the breathtaking Himalayan scenery, but also our "A-Team" of initial strangers, sherpas and porters. The most awesome of all is our [Jagged Globe](http://www.jagged-globe.co.uk) guide, Tore Rasmussen, seven summiteer, who put us mostly much younger folk to shame. He effectively broke the (social) ice, gave wise instruction on jumar use, pole technique and the warding off of the dreaded high altitude hack (aka Khumbu cough), told tall stories, and kept us together and motivated when we were down.
 
 _Above Tangnag_
 ![Glacial Valley](http://wanderfar.co.uk/MeraIsland/Nepal-76.jpg "Glacial Valley")
@@ -68,4 +69,4 @@ _Amazing Amphu Labsa_
 ![Amphu Labsa](http://wanderfar.co.uk/MeraIsland/Nepal-230.jpg "Amphu Labsa")
 
 ###All good things ...
-Inevitably, at the end of an expedition, minds turn back to the rote concerns and worries of “normal” life, and you can’t help but feel a little sad and regret. Your little expedition family is breaking up, those whose paths had come together on one great journey would soon be going their separate ways scattered to distant lands, and it is in the hands of fickle fate (or at least facebook) whether your paths will ever cross again. You find friends and they wander from your life, yet you hope that not all who wander are lost.
+Inevitably, at the end of an expedition, minds turn back to the rote concerns and worries of “normal” life, and you can’t help but feel regret and a little sad. Your little expedition family is breaking up, those whose paths had come together on one great journey would soon be going their separate ways scattered to distant lands, and it is in the hands of fickle fate (or at least facebook) whether your paths will ever cross again. You find friends and they wander from your life, yet you hope that not all who wander are lost.
