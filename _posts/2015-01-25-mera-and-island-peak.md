@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Mera & Island Peak
-comments: true
+comments: True
 ---
 >>_This trip took place in October and November 2014._
 
