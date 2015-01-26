@@ -5,7 +5,6 @@ comments: true
 ---
 >>_This trip took place in October and November 2014._
 
-###Trip Report
 The altitude is 5800m. You think to yourself _“What on earth am I doing here?”_ It’s bone-chillingly cold, you are exhausted and weak as a kitten, the water tastes of kerosene and the very thought of food is nauseating, you feel dispirited and downhearted, everything is clammily damp, every little physical niggle is magnified, and you have not had a shower in weeks.  All you want to do is huddle foetus-like in your sleeping bag feeling very sorry for yourself. As the [Coldplay](http://youtu.be/RB-RcX5DS5A) song goes: 
 >_**Nobody said it was easy.  
 No one ever said it would be this hard.  
