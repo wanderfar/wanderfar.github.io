@@ -61,7 +61,7 @@ _On the lower slopes of Island Peak_
 ###Amphu Labsa
 The highlight of the trip for me was the astounding Amphu Labsa pass, and its dramatic wedding-cake-layered ice walls with their impressive edge icing of frosted icicles. More by accident than design, we set off relatively late in the morning and got to see this spectacular sight in good light (rather than following the usual practice of starting off before dawn). I can’t praise enough the superhuman feats of the Sherpas (Sirdar Dawa, Gyan, Pemba and Ramesh) and porters in getting us all unharmed down the precipitous cliff on the other side of the Amphu Labsa pass, and for their prodigious efforts throughout.
 
-_Astonishing Amphu Labsa_
+_Amazing Amphu Labsa_
 ![Amphu Labsa](http://wanderfar.co.uk/MeraIsland/Nepal-212.jpg "Amphu Labsa")
 ![Amphu Labsa](http://wanderfar.co.uk/MeraIsland/Nepal-213.jpg "Amphu Labsa")
 ![Amphu Labsa](http://wanderfar.co.uk/MeraIsland/Nepal-226.jpg "Amphu Labsa")
