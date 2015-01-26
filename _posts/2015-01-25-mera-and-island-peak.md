@@ -63,7 +63,7 @@ The outstanding highlight of the trip for me was the astounding Amphu Labsa pass
 
 _Amazing Amphu Labsa_
 ![Amphu Labsa](http://wanderfar.co.uk/MeraIsland/Nepal-212.jpg "Amphu Labsa")
-![Amphu Labsa](http://wanderfar.co.uk/MeraIsland/Nepal-213.jpg "Amphu Labsa")
+![Amphu Labsa](http://wanderfar.co.uk/MeraIsland/IceWall-4.jpg "Amphu Labsa")
 ![Amphu Labsa](http://wanderfar.co.uk/MeraIsland/Nepal-226.jpg "Amphu Labsa")
 ![Amphu Labsa](http://wanderfar.co.uk/MeraIsland/Nepal-229.jpg "Amphu Labsa")
 ![Amphu Labsa](http://wanderfar.co.uk/MeraIsland/Nepal-230.jpg "Amphu Labsa")
