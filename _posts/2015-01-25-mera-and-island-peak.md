@@ -11,7 +11,7 @@ The altitude is 5800m. You think to yourself _“What on earth am I doing here?�
 No one ever said it would be this hard.  
 Oh, take me back to the start.**_
 
-_Nobody said it was easy_. So somehow you persevere, endure the aches and pains, and find the strength to stumble your way through to the next day, and the next, and the next. And gradually over the coming weeks and months, those immediate memories of suffering, being frozen to the bone, and swearing never to do anything like this ever again slowly fade away, and all that remains are the unforgettable views from the summits and warm fuzzy feelings. And now? Through a rosy glow of nostalgia, I find myself reminiscing fondly about the easy camaraderie of our team, bonded through a common experience of hardship, laughter and support, and yearning to recapture that ephemeral spirit amongst those serene mountains.
+_Nobody said it was easy_. So somehow you persevere, endure the aches and pains, and find the strength to stumble your way through to the next day, and the next, and the next. And gradually over the coming weeks and months, those immediate memories of suffering, being frozen to the bone, and swearing never to do anything like this ever again slowly fade away, and all that remains are the unforgettable views from the summits and warm fuzzy feelings. And now? Through the rosy glow of nostalgia, I find myself reminiscing fondly about the easy camaraderie of our team, bonded through a common experience of hardship, laughter and support, and yearning to recapture that ephemeral spirit amongst those serene mountains.
 
 But that’s enough of the melancholic musings for now. 
 
@@ -24,7 +24,7 @@ A word that not only describes this expedition and the breathtaking Himalayan sc
 _Above Tangnag_
 ![Glacial Valley](http://wanderfar.co.uk/MeraIsland/Nepal-76.jpg "Glacial Valley")
 
-It began with shy awkward introductions at Heathrow and Kathmandu airports amidst a mountain of blood-red Jagged Globe kit bags.  However, the real start of the expedition was the back-of-the-neck-hair-raising landing at Lukla’s almost-too-short runway. The next week or so was a (relatively) leisurely acclimatisation trek to Mera high camp through lush terraced farmland, verdant cloud forest, desert tundra and glacial valleys of broken rock, snow and ice (accompanied by the strains of [_“I am a Disco Dancer”_](http://youtu.be/SBOVN9KPg7c) on one Nepali’s music player). In quick succession came the slog of summiting Mera Peak, the incredible climb up and down through the out-of-this-world Amphu Labsa pass, and the jumar-assisted ascent of Island Peak. Then all too soon was the fast descent to the kinder climes of Namche Bazaar and Lukla, concluding with a return to the more-than-welcome comforts of the Summit Hotel and Thamel.
+It began with shy awkward introductions at Heathrow and Kathmandu amidst a mountain of blood-red Jagged Globe kit bags.  However, the real start of the expedition was the back-of-the-neck-hair-raising landing at Lukla’s almost-too-short runway. The next week or so was a (relatively) leisurely acclimatisation trek to Mera high camp through lush terraced farmland, verdant cloud forest, desert tundra and glacial valleys of broken rock, snow and ice (accompanied by the strains of [_“I am a Disco Dancer”_](http://youtu.be/SBOVN9KPg7c) on one Nepali’s music player). In quick succession came the slog of summiting Mera Peak, the incredible climb up and down through the out-of-this-world Amphu Labsa pass, and the jumar-assisted ascent of Island Peak. Then all too soon was the fast descent to the kinder climes of Namche Bazaar and Lukla, concluding with a return to the more-than-welcome comforts of the Summit Hotel and Thamel.
 
 _To Mera La_
 ![Route to Mera La](http://wanderfar.co.uk/MeraIsland/Nepal-144.jpg "Route to Mera La")
@@ -37,9 +37,9 @@ Some random memory snapshots of the trip:
 
 * The solitary hot bucket shower in Kote or was it Khare.
 
-* The cosy warmth of the hot stove in tea house dining rooms at the start and end of the trip.
-
 * Chanting and dancing with the porters celebrating Diwali.
+
+* The cosy warmth of the hot stove in tea house dining rooms at the start and end of the trip.
 
 * Spending 11 freezing days at 5000+ metres altitude in succession in tents (with no teahouses to warm up in).
 
@@ -59,7 +59,7 @@ _On the lower slopes of Island Peak_
 ![Island Peak](http://wanderfar.co.uk/MeraIsland/Nepal-257.jpg "Island Peak")
 
 ###Amphu Labsa
-The highlight of the trip for me was the astounding Amphu Labsa pass, and its dramatic wedding-cake-layered ice walls with their impressive edge icing of frosted icicles. More by accident than design, we set off relatively late in the morning and got to see this spectacular sight in good light (rather than following the usual practice of starting off before dawn). I can’t praise enough the superhuman feats of the Sherpas (Sirdar Dawa, Gyan, Pemba and Ramesh) and porters in getting us all unharmed down the precipitous cliff on the other side of the Amphu Labsa pass, and for their prodigious efforts throughout.
+The outstanding highlight of the trip for me was the astounding Amphu Labsa pass, and its dramatic wedding-cake-layered ice walls with their impressive edge icing of frosted icicles. More by accident than design, we set off relatively late in the morning and got to see this spectacular sight in good light (rather than following the usual practice of starting off before dawn). I can’t praise enough the superhuman feats of the Sherpas (Sirdar Dawa, Gyan, Pemba and Ramesh) and porters in getting us all unharmed down the precipitous cliff on the other side of the pass, and for their prodigious efforts throughout the trip.
 
 _Amazing Amphu Labsa_
 ![Amphu Labsa](http://wanderfar.co.uk/MeraIsland/Nepal-212.jpg "Amphu Labsa")
@@ -69,4 +69,4 @@ _Amazing Amphu Labsa_
 ![Amphu Labsa](http://wanderfar.co.uk/MeraIsland/Nepal-230.jpg "Amphu Labsa")
 
 ###All good things ...
-Inevitably, at the end of an expedition, minds turn back to the rote concerns and worries of “normal” life, and you can’t help but feel a little sad and regret. Our little team was breaking up, those whose paths had come together on one great journey would soon be going their separate ways scattered to distant lands, and it is in the hands of fickle fate (or at least facebook) whether our paths will ever cross again. You find friends and they wander from your life, yet you hope that not all who wander are lost.
+Inevitably, at the end of an expedition, minds turn back to the rote concerns and worries of “normal” life, and you can’t help but feel a little sad and regret. Your little expedition family is breaking up, those whose paths had come together on one great journey would soon be going their separate ways scattered to distant lands, and it is in the hands of fickle fate (or at least facebook) whether your paths will ever cross again. You find friends and they wander from your life, yet you hope that not all who wander are lost.
