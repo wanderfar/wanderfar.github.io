@@ -14,6 +14,9 @@ _Nobody said it was easy_. So somehow you persevere, endure the aches and pains,
 
 But that’s enough of the melancholic musings for now. 
 
+_View from Mera Peak_
+![View from Mera Peak](http://wanderfar.co.uk/MeraIsland/Panorama-7.jpg "View from Mera Peak")
+
 ###Awesome. 
 A word that not only describes this expedition and the breathtaking Himalayan scenery, but also our team of initial strangers, sherpas and porters. The most awesome of all is our [Jagged Globe](http://www.jagged-globe.co.uk) guide, Tore Rasmussen, seven summiteer, who put us mostly much younger folk to shame. He effectively broke the (social) ice, gave wise instruction on jumar use, pole technique and the warding off of the dreaded high altitude hack (aka Khumbu cough), told tall stories, and kept us together and motivated when we were down.
 
