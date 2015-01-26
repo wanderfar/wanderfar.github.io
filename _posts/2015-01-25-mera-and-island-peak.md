@@ -16,9 +16,13 @@ But that’s enough of the melancholic musings for now.
 
 ###Awesome. 
 A word that not only describes this expedition and the breathtaking Himalayan scenery, but also our team of initial strangers, sherpas and porters. The most awesome of all is our [Jagged Globe](http://www.jagged-globe.co.uk) guide, Tore Rasmussen, seven summiteer, who put us mostly much younger folk to shame. He effectively broke the (social) ice, gave wise instruction on jumar use, pole technique and the warding off of the dreaded high altitude hack (aka Khumbu cough), told tall stories, and kept us together and motivated when we were down.
+
+_Above Tangnag_
 ![Glacial Valley](http://wanderfar.co.uk/MeraIsland/Nepal-76.jpg "Glacial Valley")
+
 It began with shy awkward introductions at Heathrow and Kathmandu airports amidst a mountain of blood-red Jagged Globe kit bags.  However, the real start of the expedition was the back-of-the-neck-hair-raising landing at Lukla’s almost-too-short runway. The next week or so was a (relatively) leisurely acclimatisation trek to Mera high camp through lush terraced farmland, verdant cloud forest, desert tundra and glacial valleys of broken rock, snow and ice (accompanied by the strains of [_“I am a Disco Dancer”_](http://youtu.be/SBOVN9KPg7c) on one Nepali’s music player). In quick succession came the slog of summiting Mera Peak, the incredible climb up and down through the out-of-this-world Amphu Labsa pass, and the jumar-assisted ascent of Island Peak. Then all too soon was the fast descent to the kinder climes of Namche Bazaar and Lukla, concluding with a return to the more-than-welcome comforts of the Summit Hotel and Thamel.
 
+_To Mera La_
 ![Route to Mera La](http://wanderfar.co.uk/MeraIsland/Nepal-144.jpg "Route to Mera La")
 
 Some random memory snapshots of the trip:  
@@ -47,14 +51,17 @@ Some random memory snapshots of the trip:
 
 * Sir or Lady Faffalot. A nickname (new to me) for the person who is usually last to finish packing and out of the tent each morning.
 
+_On the lower slopes of Island Peak_
 ![Island Peak](http://wanderfar.co.uk/MeraIsland/Nepal-257.jpg "Island Peak")
 
 ###Amphu Labsa
 The highlight of the trip for me was the astounding Amphu Labsa pass, and its dramatic wedding-cake-layered ice walls with their impressive edge icing of frosted icicles. More by accident than design, we set off relatively late in the morning and got to see this spectacular sight in good light (rather than following the usual practice of starting off before dawn). I can’t praise enough the superhuman feats of the Sherpas (Sirdar Dawa, Gyan, Pemba and Ramesh) and porters in getting us all unharmed down the precipitous cliff on the other side of the Amphu Labsa pass, and for their prodigious efforts throughout.
 
+_Astonishing Amphu Labsa_
 ![Amphu Labsa](http://wanderfar.co.uk/MeraIsland/Nepal-212.jpg "Amphu Labsa")
 ![Amphu Labsa](http://wanderfar.co.uk/MeraIsland/Nepal-213.jpg "Amphu Labsa")
 ![Amphu Labsa](http://wanderfar.co.uk/MeraIsland/Nepal-226.jpg "Amphu Labsa")
+![Amphu Labsa](http://wanderfar.co.uk/MeraIsland/Nepal-229.jpg "Amphu Labsa")
 ![Amphu Labsa](http://wanderfar.co.uk/MeraIsland/Nepal-230.jpg "Amphu Labsa")
 
 ###Postscript
