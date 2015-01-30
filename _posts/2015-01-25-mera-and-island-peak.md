@@ -53,7 +53,7 @@ Some random memory snapshots of the trip:
 
 * Squidgy, fatty, salty, fried spam (surprisingly not the cause of the aforesaid vomiting).
 
-* Sir or Lady Faffalot. An affectionat) nickname (new to me) for the person who is usually last to finish packing and out of the tent each morning.
+* Sir or Lady Faffalot. An affectionate nickname (new to me) for the person who is usually last to finish packing and out of the tent each morning.
 
 _On the lower slopes of Island Peak_
 ![Island Peak](http://wanderfar.co.uk/MeraIsland/Nepal-257.jpg "Island Peak")
