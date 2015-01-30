@@ -6,12 +6,12 @@ comments: true
 >>_This trip took place in October and November 2014._
 
 ###Trip Report
-The altitude is 5800m. You think to yourself _“What on earth am I doing here?”_ It’s bone-chillingly cold, you are exhausted and weak as a kitten, the water tastes of kerosene and the very thought of food is nauseating, you feel dispirited and downhearted, everything is clammily damp, every little physical niggle is magnified, and you have not had a shower in weeks.  All you want to do is huddle foetus-like in your sleeping bag feeling very sorry for yourself. As the [Coldplay](http://youtu.be/RB-RcX5DS5A) song goes: 
+The altitude is 5800m. You think to yourself _“What on earth am I doing here?”_ It’s bone-chillingly cold, you are exhausted and weak as a kitten, the water tastes of kerosene and the very thought of food is nauseating, you feel dispirited and downhearted, everything is clammy and damp, every little physical niggle is magnified, and you have not had a shower in weeks.  All you want to do is huddle foetus-like in your sleeping bag feeling very sorry for yourself. As the [Coldplay](http://youtu.be/RB-RcX5DS5A) song goes: 
 >_**Nobody said it was easy.  
 No one ever said it would be this hard.  
 Oh, take me back to the start.**_
 
-_Nobody said it was easy_. So somehow you persevere, endure the aches and pains, and find the strength to stumble your way through to the next day, and the next, and the next. And gradually over the coming weeks and months, those immediate memories of suffering, being frozen to the bone, and swearing never to do anything like this ever again slowly fade away, and all that remains are the unforgettable views from the summits and warm fuzzy feelings. And now? Through the rosy glow of nostalgia, I find myself reminiscing fondly about the easy camaraderie of our team, bonded through a common experience of hardship, laughter and support, and yearning to recapture that ephemeral spirit amongst those serene mountains.
+_Nobody said it was easy_. So somehow you persevere, endure the aches and pains, and find the strength to stumble your way through to the next day, and the next, and the next. And gradually over the coming weeks and months, those immediate memories of suffering, being frozen to the bone, and swearing never to do anything like this ever again slowly fade away, and all that remains are the unforgettable views from the summits and warm fuzzy feelings. And now? Through the rosy glow of nostalgia, you find myself reminiscing fondly about the easy camaraderie of our team, bonded through a common experience of hardship, laughter and support, and yearning to recapture that ephemeral spiritual serenity amongst those majestic mountains.
 
 But that’s enough of the melancholic musings for now. 
 
@@ -37,23 +37,23 @@ Some random memory snapshots of the trip:
 
 * The solitary hot bucket shower in Kote or was it Khare.
 
-* Chanting and dancing with the porters celebrating Diwali.
+* The almost hypnotic chanting and dancing with the porters celebrating Diwali.
 
 * The cosy warmth of the hot stove in tea house dining rooms at the start and end of the trip.
 
 * Spending 11 freezing days at 5000+ metres altitude in succession in tents (with no teahouses to warm up in).
 
-* The frozen beauty of the Hingku valley.
+* The frozen beauty of the magnificent Hingku valley.
 
-* The price of Pringles/Mars/Twix/Snickers/Fanta increasing and decreasing with altitude.
+* The price of Pringles/Mars/Twix/Snickers/Fanta increasing and decreasing with altitude (not to mention the shortness of breath and lack of appetite following the same trend).
 
 * The raucous end-of-expedition party with the porters and sherpas at Tara Lodge in Lukla ...
 
 * .. and in its aftermath, holding a bin for my roommate to throw up in.
 
-* Fried spam (surprisingly not the cause of the aforesaid vomiting).
+* Squidgy, fatty, salty, fried spam (surprisingly not the cause of the aforesaid vomiting).
 
-* Sir or Lady Faffalot. A nickname (new to me) for the person who is usually last to finish packing and out of the tent each morning.
+* Sir or Lady Faffalot. An (affectionate) nickname (new to me) for the person who is usually last to finish packing and out of the tent each morning.
 
 _On the lower slopes of Island Peak_
 ![Island Peak](http://wanderfar.co.uk/MeraIsland/Nepal-257.jpg "Island Peak")
