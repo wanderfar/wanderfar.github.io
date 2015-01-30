@@ -6,12 +6,12 @@ comments: true
 >>_This trip took place in October and November 2014._
 
 ###Trip Report
-The altitude is 5800m. You think to yourself _“What on earth am I doing here?”_ It’s bone-chillingly cold, you are exhausted and weak as a kitten, the water tastes of kerosene and the very thought of food is nauseating, you feel dispirited and downhearted, everything is clammy and damp, every little physical niggle is magnified, and you have not had a shower in weeks.  All you want to do is huddle foetus-like in your sleeping bag feeling very sorry for yourself. As the [Coldplay](http://youtu.be/RB-RcX5DS5A) song goes: 
+The altitude is 5800m. You think to yourself _“What on earth am I doing here?”_ It’s bone-chillingly cold, you are exhausted and weak as a kitten, the water tastes of kerosene and the very thought of food is nauseating, you feel dispirited and downhearted, everything is clammy and damp to the touch, every little physical niggle is magnified, and you have not had a shower in weeks.  All you want to do is huddle foetus-like in your sleeping bag feeling very sorry for yourself. As the [Coldplay](http://youtu.be/RB-RcX5DS5A) song goes: 
 >_**Nobody said it was easy.  
 No one ever said it would be this hard.  
 Oh, take me back to the start.**_
 
-_Nobody said it was easy_. So somehow you persevere, endure the aches and pains, and find the strength to stumble your way through to the next day, and the next, and the next. And gradually over the coming weeks and months, those immediate memories of suffering, being frozen to the bone, and swearing never to do anything like this ever again slowly fade away, and all that remains are the unforgettable views from the summits and warm fuzzy feelings. And now? Through the rosy glow of nostalgia, you find myself reminiscing fondly about the easy camaraderie of our team, bonded through a common experience of hardship, laughter and support, and yearning to recapture that ephemeral spiritual serenity amongst those majestic mountains.
+_Nobody said it was easy_. So somehow you persevere, endure the aches and pains, and find the strength to stumble your way through to the next day, and the next, and the next. And gradually over the coming weeks and months, those immediate memories of suffering, being frozen to the bone, and swearing never to do anything like this ever again slowly fade away, and all that remains are the unforgettable views from the summits and warm fuzzy feelings. And now? Through the rosy glow of nostalgia, you find myself reminiscing fondly about the easy camaraderie of your team, bonded through a common experience of hardship, laughter and support, and yearning to recapture that ephemeral spiritual serenity amongst those majestic mountains.
 
 But that’s enough of the melancholic musings for now. 
 
@@ -24,7 +24,7 @@ A word that not only describes this expedition and the breathtaking Himalayan sc
 _Above Tangnag_
 ![Glacial Valley](http://wanderfar.co.uk/MeraIsland/Nepal-76.jpg "Glacial Valley")
 
-It began with shy awkward introductions at Heathrow and Kathmandu amidst a mountain of blood-red Jagged Globe kit bags.  However, the real start of the expedition was the back-of-the-neck-hair-raising landing at Lukla’s almost-too-short runway. The next week or so was a (relatively) leisurely acclimatisation trek to Mera high camp through lush terraced farmland, verdant cloud forest, desert tundra and glacial valleys of broken rock, snow and ice (accompanied by the strains of [_“I am a Disco Dancer”_](http://youtu.be/SBOVN9KPg7c) on one Nepali’s music player). In quick succession came the slog of summiting Mera Peak, the incredible climb up and down through the out-of-this-world Amphu Labsa pass, and the jumar-assisted ascent of Island Peak. Then all too soon was the fast descent to kinder climes via the picturesque natural amphitheatre of Namche Bazaar, and the one big airport waiting room that is Lukla, concluding with a return to the more-than-welcome comforts of the Summit Hotel and Thamel.
+It began with shy awkward introductions at Heathrow and Kathmandu amidst a mountain of blood-red Jagged Globe kit bags.  But, the real start of the expedition was the back-of-the-neck-hair-raising landing at Lukla’s almost-too-short runway. The next week or so was a (relatively) leisurely acclimatisation trek to Mera high camp through lush terraced farmland, verdant cloud forest, desert tundra and glacial valleys of broken rock, snow and ice (accompanied by the strains of [_“I am a Disco Dancer”_](http://youtu.be/SBOVN9KPg7c) on one Nepali’s music player). In quick succession came the slog of summiting Mera Peak, the incredible climb up and down through the out-of-this-world Amphu Labsa pass, and the jumar-assisted ascent of Island Peak. Then all too soon was the fast descent to kinder climes via the picturesque natural amphitheatre of Namche Bazaar, and the one big airport waiting room that is Lukla, concluding with a return to the more-than-welcome comforts of the Summit Hotel and Thamel.
 
 _To Mera La_
 ![Route to Mera La](http://wanderfar.co.uk/MeraIsland/Nepal-144.jpg "Route to Mera La")
@@ -53,7 +53,7 @@ Some random memory snapshots of the trip:
 
 * Squidgy, fatty, salty, fried spam (surprisingly not the cause of the aforesaid vomiting).
 
-* Sir or Lady Faffalot. An (affectionate) nickname (new to me) for the person who is usually last to finish packing and out of the tent each morning.
+* Sir or Lady Faffalot. An affectionat) nickname (new to me) for the person who is usually last to finish packing and out of the tent each morning.
 
 _On the lower slopes of Island Peak_
 ![Island Peak](http://wanderfar.co.uk/MeraIsland/Nepal-257.jpg "Island Peak")
